@@ -4,19 +4,6 @@ This repository contains a list of commonly asked HTML interview questions and t
 
 We will cover a variety of HTML questions ranging from basic to advanced. Let's get started!
 
-## Table of Contents
-
--   [Question 1: What is HTML?](#question-1)
--   [Question 2: What are some new features of HTML5?](#question-2)
--   [Question 3: What is the difference between HTML and XHTML?](#question-3)
--   [Question 4: What are the different types of HTML elements?](#question-4)
--   [Question 5: What is the purpose of semantic HTML?](#question-5)
--   [Question 6: What is the difference between a div and a span?](#question-6)
--   [Question 7: How do you add comments in HTML?](#question-7)
--   [Question 8: What is the purpose of the alt attribute in an img tag?](#question-8)
--   [Question 9: What is the difference between a relative and absolute URL?](#question-9)
--   [Question 10: What is the purpose of the meta tag in HTML?](#question-10)
-
 ## Question 1: What is HTML?
 
 HTML stands for Hypertext Markup Language. It is a markup language used to create web pages and applications. HTML provides a structure for content on the web, such as text, images, and links. It is the foundation for creating web pages and is used in conjunction with other technologies such as CSS and JavaScript.
@@ -54,3 +41,37 @@ There are two main types of HTML elements:
 Semantic HTML is the use of HTML markup to reinforce the meaning of content on a web page. By using semantic HTML, we can make our web pages more accessible and easier to understand for both humans and machines.
 
 Semantic HTML uses descriptive tags such as header, footer, section, and article instead of generic tags like div and span. This helps search engines and screen readers to understand the content and structure of the page.
+
+## Question 6: What is the difference between a div and a span?
+
+A div is a block-level element used to create a container for content on a web page. It is typically used to group related elements together and apply styles to them.
+
+A span, on the other hand, is an inline element used to apply styles to a specific section of text within a block-level element. It is often used for small pieces of text, such as individual words or phrases.
+
+## Question 7: How do you add comments in HTML?
+
+In HTML, comments are added using the following syntax:
+
+htmlCopy code
+
+`<!-- This is a comment -->` 
+
+Anything between the `<!--` and `-->` is treated as a comment and is ignored by the browser. Comments are often used to document code or temporarily remove code for testing purposes.
+
+## Question 8: What is the purpose of the alt attribute in an img tag?
+
+The `alt` attribute in an `img` tag specifies alternative text that is displayed if the image cannot be loaded or if the user is using a screen reader. This text is also used by search engines to understand the content of the image.
+
+The `alt` attribute should be descriptive and provide information about the content of the image. It is important for accessibility and SEO purposes.
+
+## Question 9: What is the difference between a relative and absolute URL?
+
+A relative URL is a URL that is relative to the current page. It only includes the path to the file or resource and does not include the domain name. For example, if the current page is `http://example.com/page1.html` and you want to link to `http://example.com/page2.html`, you can use a relative URL of `page2.html`.
+
+An absolute URL, on the other hand, includes the full path to the file or resource, including the domain name. For example, `http://example.com/page2.html` is an absolute URL.
+
+## Question 10: What is the purpose of the meta tag in HTML?
+
+The `meta` tag in HTML is used to provide metadata about the web page. This metadata includes information such as the page title, author, description, and keywords.
+
+The `meta` tag is also used to specify the character set used.
