@@ -6,16 +6,16 @@ We will cover a variety of HTML questions ranging from basic to advanced. Let's 
 
 ## Table of Contents
 
--   [Question 1: What is HTML?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-1)
--   [Question 2: What are some new features of HTML5?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-2)
--   [Question 3: What is the difference between HTML and XHTML?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-3)
--   [Question 4: What are the different types of HTML elements?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-4)
--   [Question 5: What is the purpose of semantic HTML?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-5)
--   [Question 6: What is the difference between a div and a span?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-6)
--   [Question 7: How do you add comments in HTML?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-7)
--   [Question 8: What is the purpose of the alt attribute in an img tag?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-8)
--   [Question 9: What is the difference between a relative and absolute URL?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-9)
--   [Question 10: What is the purpose of the meta tag in HTML?](https://github.com/PrgVaibhav/HTML_InterviewQuestions#question-10)
+-   [Question 1: What is HTML?](#question-1)
+-   [Question 2: What are some new features of HTML5?](#question-2)
+-   [Question 3: What is the difference between HTML and XHTML?](#question-3)
+-   [Question 4: What are the different types of HTML elements?](#question-4)
+-   [Question 5: What is the purpose of semantic HTML?](#question-5)
+-   [Question 6: What is the difference between a div and a span?](#question-6)
+-   [Question 7: How do you add comments in HTML?](#question-7)
+-   [Question 8: What is the purpose of the alt attribute in an img tag?](#question-8)
+-   [Question 9: What is the difference between a relative and absolute URL?](#question-9)
+-   [Question 10: What is the purpose of the meta tag in HTML?](#question-10)
 
 ### Question 1: What is HTML?
 
