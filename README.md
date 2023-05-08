@@ -17,11 +17,11 @@ We will cover a variety of HTML questions ranging from basic to advanced. Let's 
 -   [Question 9: What is the difference between a relative and absolute URL?](#question-9)
 -   [Question 10: What is the purpose of the meta tag in HTML?](#question-10)
 
-### Question 1: What is HTML?
+## Question 1: What is HTML?
 
 HTML stands for Hypertext Markup Language. It is a markup language used to create web pages and applications. HTML provides a structure for content on the web, such as text, images, and links. It is the foundation for creating web pages and is used in conjunction with other technologies such as CSS and JavaScript.
 
-### Question 2: What are some new features of HTML5?
+## Question 2: What are some new features of HTML5?
 
 HTML5 introduced several new features, including:
 
@@ -32,7 +32,7 @@ HTML5 introduced several new features, including:
 -   The ability to store data locally with the localStorage and sessionStorage objects
 -   Support for geolocation and web workers
 
-### Question 3: What is the difference between HTML and XHTML?
+## Question 3: What is the difference between HTML and XHTML?
 
 HTML and XHTML are both markup languages used for creating web pages, but there are some differences between them.
 
@@ -40,7 +40,7 @@ HTML is more forgiving than XHTML and allows for more flexibility in the syntax.
 
 HTML allows for empty tags, while XHTML requires all tags to be closed. HTML also allows for attribute values to be unquoted, while XHTML requires all attribute values to be quoted.
 
-### Question 4: What are the different types of HTML elements?
+## Question 4: What are the different types of HTML elements?
 
 There are two main types of HTML elements:
 
@@ -49,7 +49,7 @@ There are two main types of HTML elements:
 2.  Inline elements: These elements are contained within a block-level element and do not create a new line. Examples include span, a, and img.
     
 
-### Question 5: What is the purpose of semantic HTML?
+## Question 5: What is the purpose of semantic HTML?
 
 Semantic HTML is the use of HTML markup to reinforce the meaning of content on a web page. By using semantic HTML, we can make our web pages more accessible and easier to understand for both humans and machines.
 
