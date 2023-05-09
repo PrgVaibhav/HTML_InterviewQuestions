@@ -2,6 +2,10 @@
 
 This repository contains a list of commonly asked HTML interview questions and their answers. Whether you're preparing for an HTML-related job interview or just looking to brush up on your skills, these questions and answers will help you better understand HTML and demonstrate your knowledge to potential employers.
 
+## Want CSS Questions Visit [Here](https://github.com/PrgVaibhav/CSS_Interview_Questions)
+## Want JS Questions Visit [Here](https://github.com/PrgVaibhav/JS_Interview_Questions)
+
+
 We will cover a variety of HTML questions ranging from basic to advanced. Let's get started!
 
 ## Question 1: What is HTML?
@@ -75,3 +79,40 @@ An absolute URL, on the other hand, includes the full path to the file or resour
 The `meta` tag in HTML is used to provide metadata about the web page. This metadata includes information such as the page title, author, description, and keywords.
 
 The `meta` tag is also used to specify the character set used.
+
+## Question 11: What is the difference between HTML and CSS?
+HTML is used to define the structure and content of a web page, while CSS is used to style the presentation of that content.
+
+## Question 12: What is the role of the `<head>` element in HTML?
+The `<head>` element is used to provide metadata about the document, such as the document's title, author, and keywords. It is not visible to the user.
+
+## Question 13: How do you create a link that opens in a new tab?
+You can create a link that opens in a new tab using the target attribute with a value of "_blank". For example: `<a href="https://www.example.com" target="_blank">Example Link</a>`
+
+## Question 14: What is the difference between the `<ul>` and `<ol>` tags?
+The `<ul>` tag is used to create an unordered list, while the `<ol>` tag is used to create an ordered list.
+
+## Question 15: What is the purpose of the `data-*` attribute in HTML?
+
+The `data-*` attribute allows you to store custom data for an HTML element, which can be accessed using JavaScript or CSS.
+
+## Question 16: How do you make an HTML element draggable?
+
+You can make an HTML element draggable using the "draggable" attribute with a value of "true". You can also use JavaScript to handle the drag events.
+
+## Question 17: What is the purpose of the tabindex attribute in HTML?
+
+The tabindex attribute specifies the order in which elements should be focused when the user presses the tab key.
+
+## Question 18: How do you create a custom HTML attribute?
+
+You can create a custom HTML attribute by prefixing the attribute name with "data-". For example:
+`<div data-custom-attribute="value">`
+
+## Question 19: What is the purpose of the "rel" attribute in the `<a>` tag?
+
+The `rel` attribute specifies the relationship between the current document and the linked document, such as "stylesheet" for a CSS file or "nofollow" for a link that should not pass PageRank.
+
+## Question 20: How do you embed a video in HTML?
+
+You can embed a video in HTML using the `<video>` tag and the source attribute. For example: `<video width="320" height="240" controls> <source src="movie.mp4" type="video/mp4"> </video>`
