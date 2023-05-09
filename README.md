@@ -1,12 +1,9 @@
 # HTML Interview Questions and Answers
 
-This repository contains a list of commonly asked HTML interview questions and their answers. Whether you're preparing for an HTML-related job interview or just looking to brush up on your skills, these questions and answers will help you better understand HTML and demonstrate your knowledge to potential employers.
+#### Want CSS Questions Visit [Here](https://github.com/PrgVaibhav/CSS_Interview_Questions)
+#### Want JS Questions Visit [Here](https://github.com/PrgVaibhav/JS_Interview_Questions)
 
-## Want CSS Questions Visit [Here](https://github.com/PrgVaibhav/CSS_Interview_Questions)
-## Want JS Questions Visit [Here](https://github.com/PrgVaibhav/JS_Interview_Questions)
-
-
-We will cover a variety of HTML questions ranging from basic to advanced. Let's get started!
+> We will cover a variety of HTML questions ranging from basic to advanced. Let's get started!
 
 ## Question 1: What is HTML?
 
